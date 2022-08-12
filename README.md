@@ -1,2 +1,6 @@
 # APCS-Summer-Projects
-Project 2.2, 2.3, 2.4, 2.7, and 2.8 from APCS
+ThreeNumAverage.java is Project 2.2
+CalculationsTwoNums.java is Project 2.3
+TempConverterRevised.java is Project 2.4
+HoursMinsSecs.Java is Project 2.7
+DistanceFormula.Java is Project 2.8
